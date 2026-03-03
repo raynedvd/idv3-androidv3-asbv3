@@ -1,0 +1,21 @@
+{
+  "name": "idv3-androidv3-asbv3",
+  "displayName": "ASB Studio V3",
+  "version": "3.0.0",
+  "description": "Built with APK Builder",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"test\""
+  },
+  "keywords": [
+    "cordova",
+    "android"
+  ],
+  "author": "APK Builder",
+  "license": "MIT",
+  "devDependencies": {},
+  "cordova": {
+    "platforms": [],
+    "plugins": {}
+  }
+}
